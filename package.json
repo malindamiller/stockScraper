@@ -1,0 +1,21 @@
+{
+  "name": "stockScraper",
+  "version": "0.0.1",
+  "description": "get stock information from Yahoo finace",
+  "main": "app.js",
+  "author": {
+    "name": "Malinda Miller"
+  },
+  "dependencies": {
+    "express": "latest",
+    "request": "latest",
+    "cheerio": "latest",
+    "url-download": "latest"
+  },
+  "readme": "gets stock data from yahoo Finance.\r\n",
+  "readmeFilename": "README.md",
+  "_id": "stockScraper@0.0.1",
+  "_shasum": "b9b3644edabbe5cbc0db6fa09724b100efc4a0ba",
+  "_resolved": "file:stockScraper\\stockScraper-0.0.1.tgz",
+  "_from": "stockScraper\\stockScraper-0.0.1.tgz"
+}
